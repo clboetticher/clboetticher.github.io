@@ -8,12 +8,10 @@ excerpt: "Deep Learning, NLP, Text Generation"
 mathjax: "true"
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/alice.jpg" alt="alice" height="400" width="800" p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/Boetticher_A4_NLM for text generation.pdf" alt="Report" height="400" width="800" p align="center">
-
 ## Neural language models for text generation
 Final project for MSDS 458 - Artifical Intelligence & Deep Learning<br>
 [Link to code](https://github.com/clboetticher/DeepLearning)
+[Project report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/Boetticher_A4_NLM%20for%20text%20generation.pdf)
 
 **Objective and approach**<br>
 I selected text generation with neural language models for my final assignment - a brand new area for me though I was aware of how critical a foundation language models are to various NLP tasks. The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study seemed like a reasonable, feasible experiment in examining how neural language models work, how various design and pre-processing decisions impact performance and utility (I’ll get to that later - a very hairy subject!), and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
