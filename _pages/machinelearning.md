@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /data-wrangling/
+permalink: /projects/
 header:
   image: "/images/fp2.jpg"
 ---
