@@ -1,10 +1,10 @@
 ---
-title: "Older post"
+title: "One more down before summer"
 date: 2020-06-15
-tags: [deep learning, data science, NLP, text generation, language modeling]
+tags: [deep learning, NLP, text generation, language modeling]
 header:
   image: "/images/alice.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Deep Learning, NLP, Text Generation"
 mathjax: "true"
 ---
 
