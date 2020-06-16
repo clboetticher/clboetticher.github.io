@@ -4,8 +4,7 @@ permalink: /about/
 header:
   image: "/images/grey.jpg"
 ---
-
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bike.jpg" alt="bike love" align="left">
 
 I’m a former R&D strategy consultant and researcher now working in Natural Language Processing for ExxonMobil’s Data Science team. Since earning master’s degrees in Latin American History and Information Science from the University of Texas at Austin, and (in 2021) Data Science from Northwestern University, my research and career trajectory has explored the intersections of language, communications, technology, and design.
 
