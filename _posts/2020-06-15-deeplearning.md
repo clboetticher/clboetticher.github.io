@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/alice.jpg" alt="alice" height="400" width="800" p align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/Boetticher_A4_NLM for text generation.pdf" alt="alice" height="400" width="800" p align="center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Boetticher_A4_NLM for text generation.pdf" alt="Report" height="400" width="800" p align="center">
 
 ## Neural language models for text generation
 Final project for MSDS 458 - Artifical Intelligence & Deep Learning<br>
