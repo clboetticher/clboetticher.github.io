@@ -8,9 +8,9 @@ excerpt: "Deep Learning, NLP, Text Generation"
 mathjax: "true"
 ---
 
-# Neural language models for text generation
+## Neural language models for text generation
 
-## Final project for MSDS 458 - Artifical Intelligence and Deep Learning
+### Final project for MSDS 458 - Artifical Intelligence and Deep Learning
 
 **Objective and approach**<br>
 I selected text generation with neural language models for my final assignment - a brand new area for me though I was aware of how critical a foundation language models are to various NLP tasks. The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study seemed like a reasonable, feasible experiment in examining how neural language models work, how various design and pre-processing decisions impact performance and utility (I’ll get to that later - a very hairy subject!), and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
