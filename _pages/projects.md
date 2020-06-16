@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Project Archive"
 permalink: /projects/
 header:
   image: "/images/tim2.jpg"
