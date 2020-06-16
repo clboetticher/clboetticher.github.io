@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "One more down"
+date: 2020-06-13
+tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
