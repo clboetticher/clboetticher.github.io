@@ -3,7 +3,7 @@ title: "Older post"
 date: 2020-02-14
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
-  image: "/images/alice.jpg"
+  image: "/images/alice.png"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
