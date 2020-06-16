@@ -1,5 +1,5 @@
 ---
-title: "Neural Network Benchmark Study"
+title: "Neural network benchmark study"
 date: 2020-02-13
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
