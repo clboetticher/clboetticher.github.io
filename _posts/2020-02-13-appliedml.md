@@ -1,6 +1,6 @@
 ---
 title: "One more down"
-date: 2020-06-13
+date: 2020-02-13
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
   image: "/images/perceptron/percept.jpg"
