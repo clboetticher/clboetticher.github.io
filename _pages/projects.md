@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "Projects"
 permalink: /projects/
 header:
   image: "/images/fp2.jpg"
