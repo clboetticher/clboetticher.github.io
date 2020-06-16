@@ -7,7 +7,7 @@ header:
 excerpt: "Deep Learning, NLP, Text Generation"
 mathjax: "true"
 ---
-Here's an image:
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/alice.jpg" alt="alice" height="50" width="100" p align="center">
 
 ## Neural language models for text generation
