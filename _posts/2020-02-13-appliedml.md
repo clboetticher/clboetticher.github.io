@@ -1,9 +1,9 @@
 ---
-title: "Wrapping up Applied Machine Learning"
+title: "Neural Network Benchmark Study"
 date: 2020-02-13
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/tim2.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
