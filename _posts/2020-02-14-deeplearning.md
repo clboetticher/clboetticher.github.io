@@ -3,16 +3,16 @@ title: "Older post"
 date: 2020-02-14
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/alice.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Neural language models for text generation
 
-## H2 Heading
+## Text
 
-### H3 Heading
+### Text
 
 Here's some basic text.
 
