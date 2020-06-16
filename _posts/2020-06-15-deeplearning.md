@@ -1,5 +1,5 @@
 ---
-title: "One more down before summer"
+title: "Deep neural language models for text generation"
 date: 2020-06-15
 tags: [deep learning, NLP, text generation, language modeling]
 header:
