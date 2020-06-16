@@ -1,5 +1,5 @@
 ---
-title: "One more down"
+title: "Wrapping up Applied Machine Learning"
 date: 2020-02-13
 tags: [deep learning, data science, NLP, text generation, language modeling]
 header:
