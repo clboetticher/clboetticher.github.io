@@ -9,3 +9,16 @@ I have had the good fortune of working on a wide variety of applied statistics a
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
+### Data Cleaning
+
+### Exploratory Data Analysis and Storytelling
+
+### Regression
+
+### Classification
+
+### Unsupervised Learning/PCA
+
+### Natural Language Processing
+
+### Computer Vision
