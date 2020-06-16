@@ -9,4 +9,3 @@ I have had the good fortune of working on a wide variety of applied statistics a
 
 My complete portfolio can be found in my repositories on [GitHub](https://github.com/clboetticher/). 
 
-
