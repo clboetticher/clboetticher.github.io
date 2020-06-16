@@ -3,7 +3,7 @@ title: "One more down before summer"
 date: 2020-06-15
 tags: [deep learning, NLP, text generation, language modeling]
 header:
-  image: "/images/network.jpg"
+  image: "/images/tim2.jpg"
 excerpt: "Deep Learning, NLP, Text Generation"
 mathjax: "true"
 ---
