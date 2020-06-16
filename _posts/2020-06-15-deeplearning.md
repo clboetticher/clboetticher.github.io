@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 ## Neural language models for text generation
-Final project for MSDS 458 - Artifical Intelligence and Deep Learning<br>
+Final project for MSDS 458 - Artifical Intelligence & Deep Learning<br>
 [Link to code](https://github.com/clboetticher/DeepLearning)
 
 **Objective and approach**<br>
