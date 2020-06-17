@@ -13,7 +13,7 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 
 ### Exploratory Data Analysis and Storytelling
 **Wine review analysis**<br>
-Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com/zynicide/wine-reviews) (130,000 wine reviews scraped from Wine Enthusiast magazine during the week of November 22, 2017).<br>
+Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com/zynicide/wine-reviews) (130,000 wine reviews scraped from Wine Enthusiast magazine during the week of November 22, 2017).
 * [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb)
 
 ### Regression
