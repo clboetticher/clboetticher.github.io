@@ -47,7 +47,7 @@ Building on the classifiers developed in the first multi-class classification wo
 
 **RNNs and IMDB movie review classification**<br>
 This benchmark study employs recurrent neural networks (RNN) to demonstrate sequence learning’s performance with the binary classification task of assigning a positive or negative polarity score to IMDB movie reviews using text as features. Varying neural network architectures are explored using either recurrent (using LSTM) or convolutional layers, trained with either learned embeddings or pre-trained gloVe embeddings (100-dimensional and 300-dimensional vectors). 
-* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A8_Language%20Modeling%20with%20RNNs.ipynb) annd [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A8_report.pdf)
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A8_Language%20Modeling%20with%20RNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A8_report.pdf)
 
 **Neural language modeling for text generation**<br>
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
