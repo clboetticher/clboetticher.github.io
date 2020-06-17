@@ -30,11 +30,13 @@ Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Ran
 
 ## Classification
 
-**Logistic regression and naive Bayes classification with Portuguese bank marketing data**<br>
+**Logistic regression and naive Bayes classification with Portuguese bank marketing data**<br>CHECK!!!!
 This project employs the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) as a basis for developing and evaluating two classification approaches for predicting the binary response variable of whether a client has subscribed to a term deposit. The area under the receiver operating characteristic (ROC) curve serves as an index of classification performance. The resulting analysis informs recommendations on most effective marketing campaigns for targeting the most promising customers for new term deposit offerings.
   * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A3_Evaluating%20Classification%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A3_report.pdf)
 
-**Multi-class classifiers for the MNIST digit dataset**<br>
+**Neural network benchmark study on MNIST dataset**<br>
+This benchmark study aims to compare and evaluate two neural network types (simple multilayer perceptrons and convolutional neural networks) with various architectures (shallow and deep) and optimizers (SGD and Adam) to determine their potential utility in multi-class classification problems on the MNIST dataset of hand-drawn digits and for future analogous Optical Character Recognition (OCR) efforts.
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A6_Neural_Networks.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A6_report.pdf)
 
 
 
