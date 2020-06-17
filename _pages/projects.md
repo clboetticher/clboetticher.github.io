@@ -30,7 +30,7 @@ Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Ran
 
 ## Classification
 
-**Logistic regression and naive Bayes classification with Portuguese bank marketing data**<br>CHECK!!!!
+**Logistic regression and naive Bayes classification with Portuguese bank marketing data**<br>
 This project employs the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) as a basis for developing and evaluating two classification approaches for predicting the binary response variable of whether a client has subscribed to a term deposit. The area under the receiver operating characteristic (ROC) curve serves as an index of classification performance. The resulting analysis informs recommendations on most effective marketing campaigns for targeting the most promising customers for new term deposit offerings.
   * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A3_Evaluating%20Classification%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A3_report.pdf)
 
@@ -38,16 +38,21 @@ This project employs the [Bank Marketing Dataset](https://archive.ics.uci.edu/ml
 This benchmark study aims to compare and evaluate two neural network types (simple multilayer perceptrons and convolutional neural networks) with various architectures (shallow and deep) and optimizers (SGD and Adam) to determine their potential utility in multi-class classification problems on the MNIST dataset of hand-drawn digits and for future analogous Optical Character Recognition (OCR) efforts.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A6_Neural_Networks.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A6_report.pdf)
 
-
-
-
-
 **Random Forest classifiers with PCA**<br>
 Building on the classifiers developed in the first multi-class classification work, PCA is executed to identify principal components represennting 95 percent of the variability in the explanatory variables (substantially fewer tha nthe original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
 * Kaggle scores of 0.965 for original classifier, 0.946 after PCA
 
+**Binary image classifiers - cats versus dogs**<br>
+This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically convolutional neural networks (CNNs), in binary image classification using the [cats and dogs image dataset from Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview). OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
+
 ## Natural Language Processing
+
+**RNNs and IMDB movie review classification**<br>
+This benchmark study employs recurrent neural networks (RNN) to demonstrate sequence learning’s performance with the binary classification task of assigning a positive or negative polarity score to IMDB movie reviews using text as features. Varying neural network architectures are explored using either recurrent (using LSTM) or convolutional layers, trained with either learned embeddings or pre-trained gloVe embeddings (100-dimensional and 300-dimensional vectors). 
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A8_Language%20Modeling%20with%20RNNs.ipynb) annd [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A8_report.pdf)
+
 **Neural language modeling for text generation**<br>
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
 * [Detailed post](https://clboetticher.github.io/nlm/)
