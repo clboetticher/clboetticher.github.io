@@ -9,7 +9,7 @@ I have had the good fortune of working on a wide variety of machine learning pro
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
-###*Data Cleaning*
+### *Data Cleaning*
 
 ### Exploratory Data Analysis and Storytelling
 **Wine review analysis**<br>
