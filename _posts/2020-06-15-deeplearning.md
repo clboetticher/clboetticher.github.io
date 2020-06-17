@@ -10,7 +10,8 @@ mathjax: "true"
 
 ## Neural language models for text generation
 Final project for MSDS 458 - Artifical Intelligence & Deep Learning<br>
-[Link to code](https://github.com/clboetticher/DeepLearning)<br>
+[Link to code for Alice's Adventures in Wonderland](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A4_Neural%20Language%20Modeling%20for%20Text%20Generation_Alice%20in%20Wonderland.ipynb)<br>
+[Link to code for The Metamorphosis](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A4_Neural%20Language%20Modeling%20for%20Text%20Generation_Metamorphosis.ipynb)<br>
 [Project report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/Boetticher_A4_NLM%20for%20text%20generation.pdf)
 
 **Objective and approach**<br>
