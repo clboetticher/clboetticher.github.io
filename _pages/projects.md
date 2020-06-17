@@ -9,9 +9,9 @@ I have had the good fortune of working on a wide variety of machine learning pro
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
-### *Data Cleaning*
+## *Data Cleaning*
 
-### *Exploratory Data Analysis and Storytelling*
+## *Exploratory Data Analysis and Storytelling*
 
 **Northwestern MS in Data Science student survey analysis**<br>
 An annual program survey aims to assess current students’ perception of the field’s needs with respect to programming and software skills; it also provides a snapshot of course completion progress for student respondents and interest in future program offerings. In conjunction with the input of an external advisory board of 30 industry leaders who commented on their data science capability needs in a 2-5 year period, these results form part of the ongoing effort to evaluate how well the program is meeting both student and market demands, training new data scientists sufficiently for the field. This report includes data preparation (including scaling), exploration, and analysis of the survey data, providing a basis for recommendations for future direction for the MSDS program with respect to overall curriculum and related software and systems.
@@ -21,24 +21,24 @@ An annual program survey aims to assess current students’ perception of the fi
 Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com/zynicide/wine-reviews) (130,000 wine reviews scraped from Wine Enthusiast magazine during the week of November 22, 2017)<br>
 * [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
 
-### Regression
+## Regression
 
 **Evaluating regression models with the Boston Housing dataset**
 Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Random Forest, and Extra Trees) with a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. The Boston Housing Study, a market response study of 506 census tracts in the Boston metropolitan area. Explanatory variables include per capita crime rate by town annd average number of rooms per dwelling, with the response variable as median price of homes. Data is scaled in multiple ways to examine impact on prediction error.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A2_Evaluating%20Regression%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A2_report.pdf)
 
-### Classification
+## Classification
 
-### Unsupervised Learning/PCA
+## Unsupervised Learning/PCA
 
-### Natural Language Processing
+## Natural Language Processing
 **Neural language modeling for text generation**<br>
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
 * [Detailed post](https://clboetticher.github.io/nlm/)
 
-### Computer Vision
+## Computer Vision
 
-### What's next
+## What's next
 I have two remaining courses in my program - Natural Language Processing (a deep dive into theory) and Modeling for Supervised Learning (looking forward to reconnecting with R).
 
 This summer, I will be working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
