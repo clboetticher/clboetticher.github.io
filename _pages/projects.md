@@ -20,9 +20,9 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 ### Unsupervised Learning/PCA
 
 ### Natural Language Processing
-*Neural language modeling for text generation*
+*Neural language modeling for text generation*<br>
 TEXT ABOUT PROJECT
-* Link to [overview, code, and formal report](https://clboetticher.github.io/nlm/)
+* [Link:](https://clboetticher.github.io/nlm/)
 
 ### Computer Vision
 
