@@ -24,6 +24,6 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 ### Computer Vision
 
 ### What's next
-I have two remaining courses in my program - Natural Language Processing (a deep dive to round out my work with the theoretical foundations) and Modeling for Supervised Learning (looking forward to reconnecting with R).
+I have two remaining courses in my program - Natural Language Processing (a deep dive into theory) and Modeling for Supervised Learning (looking forward to reconnecting with R).
 
-This summer, I will be working with a good friend/journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
+This summer, I will be working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
