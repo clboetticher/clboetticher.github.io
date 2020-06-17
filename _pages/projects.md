@@ -22,7 +22,7 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 ### Natural Language Processing
 *Neural language modeling for text generation*
 TEXT ABOUT PROJECT
-* Link to [overview, code, and formal report](URL)
+* Link to [overview, code, and formal report](https://clboetticher.github.io/nlm/)
 
 ### Computer Vision
 
