@@ -5,7 +5,7 @@ header:
   image: "/images/tim2.jpg"
 ---
 
-I have had the good fortune of working on a wide variety of applied statistics and machine learning projects over the course of my graduate work. This page highlights a few of my favorites, with links to the original post, where I wrote one.
+I have had the good fortune of working on a wide variety of applied statistics and machine learning projects over the course of my graduate work. This page contains projects descriptions by subject, with links to code and analyses.
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
