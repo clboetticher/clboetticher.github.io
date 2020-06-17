@@ -13,7 +13,7 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 
 ### *Exploratory Data Analysis and Storytelling*
 
-**Northwestern MS in Data Science student survey analysis**
+**Northwestern MS in Data Science student survey analysis**<br>
 An annual program survey aims to assess current students’ perception of the field’s needs with respect to programming and software skills; it also provides a snapshot of course completion progress for student respondents and interest in future program offerings. In conjunction with the input of an external advisory board of 30 industry leaders who commented on their data science capability needs in a 2-5 year period, these results form part of the ongoing effort to evaluate how well the program is meeting both student and market demands, training new data scientists sufficiently for the field. This report includes data preparation (including scaling), exploration, and analysis of the survey data, providing a basis for recommendations for future direction for the MSDS program with respect to overall curriculum and related software and systems.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A1_Exploring%20and%20Visualizing%20Data.ipynb) annd [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A1_report.pdf)
 
@@ -22,6 +22,10 @@ Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com
 * [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
 
 ### Regression
+
+**Evaluating regression models with the Boston Housing dataset**
+Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Random Forest, and Extra Trees) with a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. The Boston Housing Study, a market response study of 506 census tracts in the Boston metropolitan area. Explanatory variables include per capita crime rate by town annd average number of rooms per dwelling, with the response variable as median price of homes. Data is scaled in multiple ways to examine impact on prediction error.
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A2_Evaluating%20Regression%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A2_report.pdf)
 
 ### Classification
 
