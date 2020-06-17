@@ -23,13 +23,21 @@ Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com
 
 ## Regression
 
-**Evaluating regression models with the Boston Housing dataset**
+**Evaluating regression models with the Boston Housing dataset**<br>
 Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Random Forest, and Extra Trees) with a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. The Boston Housing Study, a market response study of 506 census tracts in the Boston metropolitan area. Explanatory variables include per capita crime rate by town annd average number of rooms per dwelling, with the response variable as median price of homes. Data is scaled in multiple ways to examine impact on prediction error.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A2_Evaluating%20Regression%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A2_report.pdf)
 
 ## Classification
 
-## Unsupervised Learning/PCA
+**Multi-class classifiers for the MNIST digit dataset**<br>
+
+
+
+## Principal Components Analysis (PCA)
+**Random Forest classifiers with PCA**
+Building on the classifiers developed in the first multi-class classification work, PCA is executed to identify principal components represennting 95 percent of the variability in the explanatory variables (substantially fewer tha nthe original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
+* Kaggle scores of 0.965 for original classifier, 0.946 after PCA
 
 ## Natural Language Processing
 **Neural language modeling for text generation**<br>
