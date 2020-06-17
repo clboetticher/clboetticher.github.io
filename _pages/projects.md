@@ -43,10 +43,6 @@ Building on the classifiers developed in the first multi-class classification wo
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
 * Kaggle scores of 0.965 for original classifier, 0.946 after PCA
 
-**Binary image classifiers - cats versus dogs**<br>
-This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically convolutional neural networks (CNNs), in binary image classification using the [cats and dogs image dataset from Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview). OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
-* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
-
 ## Natural Language Processing
 
 **RNNs and IMDB movie review classification**<br>
@@ -58,6 +54,10 @@ The ability to generate text that resembles the quality of human language has nu
 * [Detailed post](https://clboetticher.github.io/nlm/)
 
 ## Computer Vision
+
+**Binary image classifiers - cats versus dogs**<br>
+This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically convolutional neural networks (CNNs), in binary image classification using the [cats and dogs image dataset from Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview). OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
 
 ## What's next
 I have two remaining courses in my program - Natural Language Processing (a deep dive into theory) and Modeling for Supervised Learning (looking forward to reconnecting with R).
