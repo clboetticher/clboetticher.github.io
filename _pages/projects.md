@@ -25,7 +25,7 @@ Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com
 ### Natural Language Processing
 **Neural language modeling for text generation**<br>
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
-* [Detailed post] (https://clboetticher.github.io/nlm/)
+* [Detailed post](https://clboetticher.github.io/nlm/)
 
 ### Computer Vision
 
