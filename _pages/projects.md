@@ -14,7 +14,7 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 ### Exploratory Data Analysis and Storytelling
 **Wine review analysis**<br>
 Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com/zynicide/wine-reviews) (130,000 wine reviews scraped from Wine Enthusiast magazine during the week of November 22, 2017)<br>
-- [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
+* [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
 
 ### Regression
 
@@ -23,9 +23,9 @@ Exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com
 ### Unsupervised Learning/PCA
 
 ### Natural Language Processing
-*Neural language modeling for text generation*<br>
-TEXT ABOUT PROJECT
-* [Link:](https://clboetticher.github.io/nlm/)
+**Neural language modeling for text generation**<br>
+The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
+* [Detailed post] (https://clboetticher.github.io/nlm/)
 
 ### Computer Vision
 
