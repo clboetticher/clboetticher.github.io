@@ -38,14 +38,14 @@ This benchmark study aims to compare and evaluate two neural network types (simp
 * An extension of this study examines varying network topologies (in terms of depth and width) in more detail, aiming for digit classification accuracy and an opportunity to gain an in-depth understanding of how the neurons in the simple single-hidden layer network have learned to represent features within the input data. [Project code](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A1_Digit%20classification%20with%20simple%20neural%20networks.ipynb) and [report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A1_report.pdf)
 
 **Random Forest classifiers with PCA**<br>
-Building on the classifiers developed in the first multi-class classification work, PCA is executed to identify principal components represennting 95 percent of the variability in the explanatory variables (substantially fewer tha nthe original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
+Building on the classifiers developed in the first multi-class classification work, PCA is executed to reduce dimensionality and identify principal components representing 95 percent of the variability in the explanatory variables (substantially fewer than the original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
 * Kaggle scores of 0.965 for original classifier, 0.946 after PCA
 
 ## *Natural Language Processing*
 
-**RNNs and IMDB movie review classification**<br>
-This benchmark study employs recurrent neural networks (RNN) to demonstrate sequence learning’s performance with the binary classification task of assigning a positive or negative polarity score to IMDB movie reviews using text as features. Varying neural network architectures are explored using either recurrent or convolutional layers, trained with either learned embeddings or pre-trained gloVe embeddings (100-dimensional and 300-dimensional vectors). 
+**Neural networks for IMDB movie review classification**<br>
+This benchmark study evaluates fully-connected dense neural networks (as a baseline), RNNs (specifically to demonstrate sequence learning’s performance), and one-dimensional convolutional neural networks (CNNs) with the binary classification task of assigning a positive or negative polarity score to IMDB movie reviews using text as features. Varying neural network architectures are explored using either recurrent or convolutional layers, trained with either learned embeddings or pre-trained gloVe embeddings (100-dimensional and 300-dimensional vectors). 
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A8_Language%20Modeling%20with%20RNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A8_report.pdf)
 
 **Reuters newswire classification with RNNs annd 1-D CNNs**<br>
@@ -59,7 +59,7 @@ The ability to generate text that resembles the quality of human language has nu
 ## *Computer Vision*
 
 **Binary image classifiers - cats versus dogs**<br>
-This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically convolutional neural networks (CNNs), in binary image classification using the [cats and dogs image dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview) from Kaggle. OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
+This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically CNNs, in binary image classification using the [cats and dogs image dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview) from Kaggle. OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
 
 **Fashion image classification with deep neural networks**<br>
