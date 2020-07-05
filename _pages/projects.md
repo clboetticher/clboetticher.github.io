@@ -54,7 +54,7 @@ This study is a comparative exploration of dense, recurrent, and convolutional n
 
 **Neural language modeling for text generation**<br>
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
-* [Detailed post]({% link _posts/nlm.md %})
+* [Detailed post]({% link _pages/nlm.md %})
 
 ## *Computer Vision*
 
@@ -64,7 +64,7 @@ This benchmark study examines the performance, processing time, and generalizabi
 
 **Fashion image classification with deep neural networks**<br>
 Where simple neural networks have been found to perform relatively well with certain tasks, such as digit classification, images from photos have proven much more challenging given the astounding variety in how objects, even of the same class, can look vastly different depending on size, shape, detail, and positioning (to name only a few). The Fashion MNIST database, with labeled articles of clothing across ten categories, offers a more complex dataset for benchmarking complex dense and convolutional neural networks and how they compare in classification accuracy and process time. This study explores varying architectures with dense and convolutional layers with varying depths and widths with the objective of configuring effective models. Specific hyperparameter settings are adjusted to evaluate potential effects on classification performance and process time as well and dropout regularization is added in some cases to determine potential impact on reducing model complexity and mitigating overfitting. Greater understanding of the intricacies of these architectures and the numerous ways they can be adjusted lead to more performant models more likely to work well in real-life image classification scenarios, with applications in retail and far beyond.
-* Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
+* Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
 
 ## What's next
