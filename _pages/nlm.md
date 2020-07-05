@@ -1,5 +1,5 @@
 ---
-title: "Text generationn with Neural Language Models"
+title: "Text generation with neural language models"
 permalink: /nlm/
 ---
 
