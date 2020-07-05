@@ -40,7 +40,6 @@ This benchmark study aims to compare and evaluate two neural network types (simp
 **Random Forest classifiers with PCA**<br>
 Building on the classifiers developed in the first multi-class classification work, PCA is executed to reduce dimensionality and identify principal components representing 95 percent of the variability in the explanatory variables (substantially fewer than the original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
-* Kaggle scores of 0.965 for original classifier, 0.946 after PCA
 
 ## *Natural Language Processing*
 
