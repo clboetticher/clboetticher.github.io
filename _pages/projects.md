@@ -19,6 +19,11 @@ An annual program survey aims to assess current students’ perception of the fi
 This exploratory analysis of the [Kaggle wine review data set](https://www.kaggle.com/zynicide/wine-reviews) (130,000 wine reviews scraped from Wine Enthusiast magazine in 2017) was an early (in my graduate program) experiment with potentially-interesting correlations across features. Given the unique, highly subject-specific language, sentiment analysis and scores' correlation to price and Wine Enthusiast points assigned also made for an interesting investigation into the specificities of review language and the complexities of the domain's language in reflecting how much any given reviewer enjoyed a wine and perceived its value. I'm hoping to return to this one later to develop text-related predictive models, possibly identifying variety or location based on the description field.<br>
 * [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
 
+**NoSQL queries and output analysis**
+
+The assignment entailed interacting with a NoSQL database engine (Elasticsearch) via creation and running of queries against a database of food service facility safety inspections in Chicago from 2015. Given the city's stretched resources for routine inspections across all formal daycare centers and facilities offering childcare, the objective is to identify hot-spot areas where facilities have failed past inspections that merit inspector attention going forward. By experimenting with different NoSQL queries and evaluating the output, the output enabled a better understanding of results and how to effectively fine-tune queries for better precision, accuracy, and relevance (and the relationship/tradeoffs between them). 
+* [Project code](https://github.com/clboetticher/DBSystems/blob/master/MSDS420_A4_Chicago%20Food%20Inspections.ipynb)
+
 ## *Regression*
 
 **Evaluating regression models with the Boston Housing dataset**<br>
