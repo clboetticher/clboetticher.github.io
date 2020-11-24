@@ -18,16 +18,27 @@ This exploratory analysis of the [Kaggle wine review data set](https://www.kaggl
 * [Project code](https://github.com/clboetticher/ExploratoryML/blob/master/MSDS430_Final_Wine%20Reviews.ipynb) and [report](https://github.com/clboetticher/ExploratoryML/blob/master/pdfs/Winerevs_finalpaper.pdf)
 
 **NoSQL queries and output analysis**
-
 The assignment entailed interacting with a NoSQL database engine (Elasticsearch) via creation and running of queries against a database of food service facility safety inspections in Chicago from 2015. Given the city's stretched resources for routine inspections across all formal daycare centers and facilities offering childcare, the objective is to identify hot-spot areas where facilities have failed past inspections that merit inspector attention going forward. By experimenting with different NoSQL queries and evaluating the output, the output enabled a better understanding of results and how to effectively fine-tune queries for better precision, accuracy, and relevance (and the relationship/tradeoffs between them). 
 * [Project code](https://github.com/clboetticher/DBSystems/blob/master/MSDS420_A4_Chicago%20Food%20Inspections.ipynb)
 
 ## *Regression*
 
 **Evaluating regression models with the Boston Housing dataset**<br>
-Evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Random Forest, and Extra Trees) with a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. The Boston Housing Study, a market response study of 506 census tracts in the Boston metropolitan area. Explanatory variables include per capita crime rate by town annd average number of rooms per dwelling, with the response variable as median price of homes. Data is scaled in multiple ways to examine impact on prediction error.
+This analysis covers evaluation of multiple regression models (Linear, Ridge, Lasso, Elastic Net, Random Forest, and Extra Trees) with a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. Data comes from the Boston Housing Study, a market response study of 506 census tracts in the Boston metropolitan area. Explanatory variables include per capita crime rate by town annd average number of rooms per dwelling, with the response variable as median price of homes. Data is scaled in multiple ways to examine impact on prediction error.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A2_Evaluating%20Regression%20Models.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A2_report.pdf)
 * Second project focusing on Random Forest and Gradient Boosting methods in more depth: [project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A4_Random%20Forests%20and%20Gradient%20Boosting.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A4_report.pdf)
+
+**Simple and Multiple Linear Regression with the Ames Housing dataset**<br>
+An assignment involving fitting and evaluation of Simple Linear Regression (SLR) and Multiple Linear Regression (MLR) models using the least squares method. The Ames, Iowa housing dataset is employed to decipher relationships between various predictor variables and sale price of homes from the Assessor's Office tax assessment process.
+* [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment2_Boetticher.pdf) with R script as appendix
+
+**Automated Variable Selection and Analysis of Multicollinearity with the Ames Housing dataset**<br>
+This assignment employs and assesses automated variable selection techniques (forward, backward, and stepwise) for regression model identification. Model validation includes discussion of potential issues with this approach and of the possible presence of multicollinearity, again using the Ames, Iowa housing dataset.
+* [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment7_Boetticher.pdf) with R script as appendix
+
+**Modeling Count Data**<br>
+This analysis of count regression models focuses on counts of medical care utilization by the elderly in the United States from a dataset consisting of a subsample of elderly individuals (66 and older) drawn from the National Medical Expenditure Survey, 1987. Beyond health-care data providing information on hospitalizations and physician office visits, these data include information on health status, employment, economic status, and sociodemographic characteristics. The objective of this analysis is to build a selection of count regression models for determining useful predictors of the number of physician office visits a patient will make. Models' predictive accuracy is framed in terms of patient segments and additional classification is evaluated for model utility in an operational setting.
+* [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment9_Boetticher.pdf) with R script as appendix
 
 ## *Classification*
 
@@ -43,6 +54,10 @@ This benchmark study aims to compare and evaluate two neural network types (simp
 **Random Forest classifiers with PCA**<br>
 Building on the classifiers developed in the first multi-class classification work, PCA is executed to reduce dimensionality and identify principal components representing 95 percent of the variability in the explanatory variables (substantially fewer than the original 784 explanatory variables). These components are used to train another Random Forest classifier for comparison. 
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A5_Principal%20Components%20Analysis.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A5_report.pdf)
+
+**Binary Classification with Logistic Regression for the Universal Banking dataset**<br>
+This assignment involves identifying and validating a selection of logistic regression models for binary classification, specifically for scoring classifiers capable of aptly discriminating between sample members' likelihood of opening a personal line of credit. Models' predictive accuracy are evaluated in- and out-of-sample. 
+* [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment8_Boetticher.pdf) with R script as appendix
 
 ## *Natural Language Processing*
 
