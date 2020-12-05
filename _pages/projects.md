@@ -7,7 +7,10 @@ I have had the good fortune of working on a wide variety of machine learning pro
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
+[TEST ANCHOR EDA](#EDA)
+
 ## *Exploratory Data Analysis*
+#EDA
 
 **Northwestern MS in Data Science student survey analysis**<br>
 An annual program survey aims to assess current students’ perception of the field’s needs with respect to programming and software skills; it also provides a snapshot of course completion progress for student respondents and interest in future program offerings. In conjunction with the input of an external advisory board of 30 industry leaders who commented on their data science capability needs in a 2-5 year period, these results form part of the ongoing effort to evaluate how well the program is meeting both student and market demands, training new data scientists sufficiently for the field. This report includes data preparation (including scaling), exploration, and analysis of the survey data, providing a basis for recommendations for future direction for the MSDS program with respect to overall curriculum and related software and systems.
