@@ -7,9 +7,19 @@ I have had the good fortune of working on a wide variety of machine learning pro
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
-[TEST ANCHOR EDA](#EDA)
+## Portfolio sections:
 
-Hello, this is some text to fill in this, [TESTEDAANCOR](#Exploratory-Data-Analysis), is a link to the second place.
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Regression](#Regression)
+
+[Classification](#Classification)
+
+[Natual Language Processing](#Natural-Language-Processing)
+
+[Computer Vision](#Computer-Vision)
+
+[Machine Learning Engineering](#Machine-Learning-Engineering)
 
 ## *Exploratory Data Analysis*
 
@@ -87,6 +97,8 @@ This benchmark study examines the performance, processing time, and generalizabi
 Where simple neural networks have been found to perform relatively well with certain tasks, such as digit classification, images from photos have proven much more challenging given the astounding variety in how objects, even of the same class, can look vastly different depending on size, shape, detail, and positioning (to name only a few). The Fashion MNIST database, with labeled articles of clothing across ten categories, offers a more complex dataset for benchmarking complex dense and convolutional neural networks and how they compare in classification accuracy and process time. This study explores varying architectures with dense and convolutional layers with varying depths and widths with the objective of configuring effective models. Specific hyperparameter settings are adjusted to evaluate potential effects on classification performance and process time as well and dropout regularization is added in some cases to determine potential impact on reducing model complexity and mitigating overfitting. Greater understanding of the intricacies of these architectures and the numerous ways they can be adjusted lead to more performant models more likely to work well in real-life image classification scenarios, with applications in retail and far beyond.
 * Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
+
+**Machine Learning Engineering**<br>
 
 ## What's next
 I just wrapped up Data Modeling for Supervised Learning and have one course remaining - Natural Language Processing (a deep dive into theory - and my capstone project. Beyond coursework, I am working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
