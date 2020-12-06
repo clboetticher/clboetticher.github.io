@@ -9,7 +9,7 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 
 ## Portfolio sections:
 
-[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Regression](#Regression)
 
