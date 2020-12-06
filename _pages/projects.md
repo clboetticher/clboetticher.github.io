@@ -11,15 +11,15 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Regression](#Regression)
+[Regression](#regression)
 
-[Classification](#Classification)
+[Classification](#classification)
 
-[Natual Language Processing](#Natural-Language-Processing)
+[Natual Language Processing](#natural-language-processing)
 
-[Computer Vision](#Computer-Vision)
+[Computer Vision](#computer-vision)
 
-[Machine Learning Engineering](#Machine-Learning-Engineering)
+[Machine Learning Engineering](#machine-learning-engineering)
 
 ## *Exploratory Data Analysis*
 
