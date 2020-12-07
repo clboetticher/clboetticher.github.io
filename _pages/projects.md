@@ -57,6 +57,8 @@ This assignment employs and assesses automated variable selection techniques (fo
 This analysis of count regression models focuses on counts of medical care utilization by the elderly in the United States from a dataset consisting of a subsample of elderly individuals (66 and older) drawn from the National Medical Expenditure Survey, 1987. Beyond health-care data providing information on hospitalizations and physician office visits, these data include information on health status, employment, economic status, and sociodemographic characteristics. The objective of this analysis is to build a selection of count regression models for determining useful predictors of the number of physician office visits a patient will make. Models' predictive accuracy is framed in terms of patient segments and additional classification is evaluated for model utility in an operational setting.
 * [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment9_Boetticher.pdf) with R script as appendix
 
+[Top](#portfolio-sections)
+
 ## *Classification*
 
 **Logistic regression and naive Bayes classification with Portuguese bank marketing data**<br>
@@ -76,6 +78,8 @@ Building on the classifiers developed in the first multi-class classification wo
 This assignment involves identifying and validating a selection of logistic regression models for binary classification, specifically for scoring classifiers capable of aptly discriminating between sample members' likelihood of opening a personal line of credit. Models' predictive accuracy are evaluated in- and out-of-sample. 
 * [Project report](https://github.com/clboetticher/SupervisedLearning/blob/main/Assignment8_Boetticher.pdf) with R script as appendix
 
+[Top](#portfolio-sections)
+
 ## *Natural Language Processing*
 
 **Neural networks for IMDB movie review classification**<br>
@@ -90,6 +94,8 @@ This study is a comparative exploration of dense, recurrent, and convolutional n
 The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
 * [Detailed post](https://clboetticher.github.io/nlm/)
 
+[Top](#portfolio-sections)
+
 ## *Computer Vision*
 
 **Binary image classifiers - cats versus dogs**<br>
@@ -100,6 +106,8 @@ This benchmark study examines the performance, processing time, and generalizabi
 Where simple neural networks have been found to perform relatively well with certain tasks, such as digit classification, images from photos have proven much more challenging given the astounding variety in how objects, even of the same class, can look vastly different depending on size, shape, detail, and positioning (to name only a few). The Fashion MNIST database, with labeled articles of clothing across ten categories, offers a more complex dataset for benchmarking complex dense and convolutional neural networks and how they compare in classification accuracy and process time. This study explores varying architectures with dense and convolutional layers with varying depths and widths with the objective of configuring effective models. Specific hyperparameter settings are adjusted to evaluate potential effects on classification performance and process time as well and dropout regularization is added in some cases to determine potential impact on reducing model complexity and mitigating overfitting. Greater understanding of the intricacies of these architectures and the numerous ways they can be adjusted lead to more performant models more likely to work well in real-life image classification scenarios, with applications in retail and far beyond.
 * Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
+
+[Top](#portfolio-sections)
 
 <!---**Machine Learning Engineering**<br>
 -->
