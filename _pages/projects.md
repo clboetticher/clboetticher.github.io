@@ -35,6 +35,8 @@ This exploratory analysis of the [Kaggle wine review data set](https://www.kaggl
 The assignment entailed interacting with a NoSQL database engine (Elasticsearch) via creation and running of queries against a database of food service facility safety inspections in Chicago from 2015. Given the city's stretched resources for routine inspections across all formal daycare centers and facilities offering childcare, the objective is to identify hot-spot areas where facilities have failed past inspections that merit inspector attention going forward. By experimenting with different NoSQL queries and evaluating the output, the output enabled a better understanding of results and how to effectively fine-tune queries for better precision, accuracy, and relevance (and the relationship/tradeoffs between them). 
 * [Project code](https://github.com/clboetticher/DBSystems/blob/master/MSDS420_A4_Chicago%20Food%20Inspections.ipynb)
 
+[Top](#portfolio-sections)
+
 ## *Regression*
 
 **Evaluating regression models with the Boston Housing dataset**<br>
