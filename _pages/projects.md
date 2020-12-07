@@ -19,7 +19,8 @@ My complete portfolio can be found on [GitHub](https://github.com/clboetticher/)
 
 [Computer Vision](#computer-vision)
 
-[Machine Learning Engineering](#machine-learning-engineering)
+<!---[Machine Learning Engineering](#machine-learning-engineering)
+-->
 
 ## *Exploratory Data Analysis*
 
@@ -100,7 +101,8 @@ Where simple neural networks have been found to perform relatively well with cer
 * Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
 
-**Machine Learning Engineering**<br>
+<!---**Machine Learning Engineering**<br>
+-->
 
 ## What's next
 I just wrapped up Data Modeling for Supervised Learning and have one course remaining - Natural Language Processing (a deep dive into theory - and my capstone project. Beyond coursework, I am working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
