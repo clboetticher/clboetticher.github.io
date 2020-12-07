@@ -7,7 +7,7 @@ I have had the good fortune of working on a wide variety of machine learning pro
 
 My complete portfolio can be found on [GitHub](https://github.com/clboetticher/). 
 
-## Portfolio sections:
+## Portfolio sections
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
