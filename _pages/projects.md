@@ -113,5 +113,5 @@ Where simple neural networks have been found to perform relatively well with cer
 -->
 
 ## What's next
-I just wrapped up Data Modeling for Supervised Learning and have one course remaining - Natural Language Processing (a deep dive into theory - and my capstone project. Beyond coursework, I am working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in social media and am also finishing up a long-running Outkast lyric analysis project. More on those soon...
+I just wrapped up Data Modeling for Supervised Learning and am in my final graduate course - Natural Language Processing (a deep dive into theory - and preparing my capstone project. Beyond coursework, I am working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in mainstream and alternative media and am also finishing up a long-running Outkast lyric analysis project. 
 
