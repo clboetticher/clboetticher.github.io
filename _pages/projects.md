@@ -98,14 +98,16 @@ The ability to generate text that resembles the quality of human language has nu
 
 ## *Computer Vision*
 
-**Binary image classifiers - cats versus dogs**<br>
-This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically CNNs, in binary image classification using the [cats and dogs image dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview) from Kaggle. OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
-* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
-
 **Fashion image classification with deep neural networks**<br>
 Where simple neural networks have been found to perform relatively well with certain tasks, such as digit classification, images from photos have proven much more challenging given the astounding variety in how objects, even of the same class, can look vastly different depending on size, shape, detail, and positioning (to name only a few). The Fashion MNIST database, with labeled articles of clothing across ten categories, offers a more complex dataset for benchmarking complex dense and convolutional neural networks and how they compare in classification accuracy and process time. This study explores varying architectures with dense and convolutional layers with varying depths and widths with the objective of configuring effective models. Specific hyperparameter settings are adjusted to evaluate potential effects on classification performance and process time as well and dropout regularization is added in some cases to determine potential impact on reducing model complexity and mitigating overfitting. Greater understanding of the intricacies of these architectures and the numerous ways they can be adjusted lead to more performant models more likely to work well in real-life image classification scenarios, with applications in retail and far beyond.
 * Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
+* 
+* **Binary image classifiers - cats versus dogs**<br>
+This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically CNNs, in binary image classification using the [cats and dogs image dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview) from Kaggle. OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
+* [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
+
+
 
 [Top](#portfolio-sections)
 
@@ -113,5 +115,7 @@ Where simple neural networks have been found to perform relatively well with cer
 -->
 
 ## What's next
-I just wrapped up Data Modeling for Supervised Learning and am in my final graduate course - Natural Language Processing (a deep dive into theory - and preparing my capstone project. Beyond coursework, I am working with a good friend and journalism professor from the University of Houston on Black Lives Matter protest coverage in mainstream and alternative media and am also finishing up a long-running Outkast lyric analysis project. 
+I just wrapped up Data Modeling for Supervised Learning and am now in my final graduate course - Natural Language Processing (a deep dive into theory) - while preparing my capstone project. Beyond coursework, I am working with a journalism professor from the University of Houston [(Summer Harlow)](https://www.uh.edu/class/communication/our-team/faculty/harlow-summer/) on Black Lives Matter protest coverage in mainstream and alternative media and am also finishing up a long-running Outkast lyric analysis project. 
+
+
 
