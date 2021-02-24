@@ -91,7 +91,7 @@ This study is a comparative exploration of dense, recurrent, and convolutional n
 * [Project code](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A3_Deep%20Neural%20Networks%20for%20NLP.ipynb) and [report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A3_report.pdf)
 
 **Neural language modeling for text generation**<br>
-The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, from text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes.
+The ability to generate text that resembles the quality of human language has numerous applications, from machine translation to spelling correction, text summarization to image captioning. This study includes experiments in examining how deep neural language models work, how various design and pre-processing decisions impact performance and utility, and also how to tweak network architectures and hyper parameter settings for alternate outcomes. Specifically, I trained and evaluated deep neural language models to predict text for Alice in Wonderland (trained on 26,000 words) and The Metamorphosis (trained on 22,000 words) then compared LSTM recurrent neural network architectures for each. 
 * [Detailed post](https://clboetticher.github.io/nlm/)
 
 [Top](#portfolio-sections)
