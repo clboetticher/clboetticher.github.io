@@ -103,7 +103,7 @@ Where simple neural networks have been found to perform relatively well with cer
 * Project code [with no dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_no_dropout.ipynb) and [with dropout regularization](https://github.com/clboetticher/DeepLearning/blob/master/MSDS458_A2_CNNs_for_Computer_Vision_dropout_experiments.ipynb)
 * [Report](https://github.com/clboetticher/DeepLearning/blob/master/pdfs/A2_report.pdf)
 
-* **Binary image classifiers - cats versus dogs**<br>
+**Binary image classifiers - cats versus dogs**<br>
 This benchmark study examines the performance, processing time, and generalizability of neural network models, specifically CNNs, in binary image classification using the [cats and dogs image dataset](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview) from Kaggle. OpenCV and the Keras Image Data Generator are employed to prepare the image data and attempt a reduction of overfitting.
 * [Project code](https://github.com/clboetticher/AppliedML/blob/master/MSDS422_A7_Image%20Processing%20with%20CNNs.ipynb) and [report](https://github.com/clboetticher/AppliedML/blob/master/pdfs/A7_report.pdf)
 
